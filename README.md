@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmarKORMADI
 - 👀 I’m interested in computer sciences
-- 🌱 I’m currently learning web development and software engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web/mobile development using Flutter
+- 💞️ I’m looking for an end of study internship in mobile development
 - 📫 How to reach me : 
 E-mail : amorkormadi@gmail.com 
 LinkedIn: https://www.linkedin.com/in/omar-kormadi-16bb771ba
