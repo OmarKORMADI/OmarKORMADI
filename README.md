@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web/mobile development using Flutter
 - 💞️ I’m looking for an end of study internship in mobile development
 - 📫 How to reach me : 
-E-mail : omarkormadi@ieee.org
+E-mail : amorkormadi@gmail.com
 LinkedIn: https://www.linkedin.com/in/omar-kormadi-16bb771ba
 
 <!---
